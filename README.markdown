@@ -1,6 +1,6 @@
 # MENHERA.NVIM :ribbon: :black_heart:
 
-***A pastel Goth Neovim colorscheme. :ribbon: :black_heart:***
+***A pastel goth Neovim colorscheme. :ribbon: :black_heart:***
 
 ## ABOUT :books:
 
