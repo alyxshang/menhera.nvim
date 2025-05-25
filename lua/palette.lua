@@ -10,14 +10,14 @@
 -- parameter.
 function palette(transparentSetting)
   local themePalette = {
-    bg = "#3E4772",
+    bg = "#191919",
     fg = "#FEDBFE",
     fg2 = "#EAC9EA",
     fg3 = "#D5B8D5",
     fg4 = "#C1A6C1",
-    bg2 = "#475183",
-    bg3 = "#505c93",
-    bg4 = "#5966a4",
+    bg2 = "#2B2B2B",
+    bg3 = "#3E3E3E",
+    bg4 = "#505050",
     keywordColor = "#FCF3FD",
     builtinColor = "#CAD6FF",
     constColor = "#8F73CE",
